@@ -1,0 +1,21 @@
+{
+  "name": "comment-widget",
+  "version": "1.0.0",
+  "description": "Comment Widget Component that renders nested comments",
+  "main": "index.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "comment"
+  ],
+  "author": "Swapnil Khedkar",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^9.0.0"
+  },
+  "peerDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
