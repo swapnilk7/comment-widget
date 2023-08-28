@@ -47,3 +47,5 @@ This package is also deployed on npm:
 
 
   ```
+
+Live Server URL : https://comment-widget-sk7.netlify.app/
